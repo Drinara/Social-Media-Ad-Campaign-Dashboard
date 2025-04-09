@@ -1,10 +1,10 @@
-##📊 Hilton Hotel Social Media Ad Campaign Analysis (Power BI)
+**📊 Hilton Hotel Social Media Ad Campaign Analysis (Power BI)**
 
-📁 Overview
+*📁 Overview*
 
 This project presents a detailed analysis of Hilton Hotel’s social media ad campaigns conducted between 2020 and 2023 across Facebook, Instagram, and TikTok. Using Power BI, the analysis provides insights into key performance metrics, conversion rates, and cost efficiency to optimize future ad spending and campaign strategies.
 
-🎯 Intended Audience
+*🎯 Intended Audience*
 
 Social Media Managers
 
@@ -16,9 +16,9 @@ Ad Campaign Analysts
 
 These insights will help in understanding the effectiveness of ad campaigns, fine-tuning targeting strategies, and improving overall ROI.
 
-🧱 Dashboard Structure
+*🧱 Dashboard Structure*
 
-📌 Key Metrics & Insights
+*📌 Key Metrics & Insights*
 
 **Conversion Rate by Age & Gender:**
 
@@ -59,7 +59,7 @@ What seasonal trends can we leverage for future campaigns?
 
 How can we optimize ad spend to focus on high-performing platforms and periods?
 
-🔍 Key Insights
+*🔍 Key Insights*
 Instagram ads show the highest conversion rate (28.05%), making it the most effective platform.
 
 Facebook ads have a lower conversion rate (11.25%), indicating room for optimization in targeting or content type.
@@ -70,7 +70,7 @@ Males have a higher conversion rate than females, which could inform more target
 
 Ads perform better in the latter half of the year, especially during holidays and seasonal peaks.
 
-✅ Suggested Actions from Insights
+*✅ Suggested Actions from Insights*
 Allocate more budget to Instagram, focusing on image-based ads.
 
 Optimize Facebook ad content, potentially by testing new formats or more targeted demographics.
@@ -85,7 +85,7 @@ Investigate ad performance among younger demographics (especially 26-35) to boos
 
 Run A/B tests for new content types and call-to-action strategies to enhance engagement.
 
-🧠 What I Learned
+*🧠 What I Learned*
 Gained experience in creating Power BI dashboards with interactive visualizations for campaign data.
 
 Developed skills in analyzing conversion metrics and identifying trends across social media platforms.
@@ -94,10 +94,10 @@ Practiced data storytelling to drive actionable business decisions based on soci
 
 Improved my ability to translate raw campaign data into strategic insights for marketing teams.
 
-📂 Files in this Repository
+*📂 Files in this Repository*
 SOCIAL MEDIA AD CAMPAIGN DASHBOARD.pbix → Power BI Dashboard File
 
-📸 Dashboard Preview
+*📸 Dashboard Preview*
 ![image](https://github.com/user-attachments/assets/a344de89-e033-4353-a8f6-3a55d52c6dfb)
 
 
