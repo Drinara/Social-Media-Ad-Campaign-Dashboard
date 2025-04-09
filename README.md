@@ -49,6 +49,7 @@ High conversion periods: July, November, December.
 Low conversion periods: January, February.
 
 *🧠 Story Behind the Data*
+
 This analysis aims to uncover trends and actionable insights from Hilton’s ad campaigns. The data reflects different strategies and their effectiveness across various demographics and platforms. Key questions explored include:
 
 What is the conversion rate by age, gender, and platform?
@@ -60,6 +61,7 @@ What seasonal trends can we leverage for future campaigns?
 How can we optimize ad spend to focus on high-performing platforms and periods?
 
 *🔍 Key Insights*
+
 Instagram ads show the highest conversion rate (28.05%), making it the most effective platform.
 
 Facebook ads have a lower conversion rate (11.25%), indicating room for optimization in targeting or content type.
@@ -71,6 +73,7 @@ Males have a higher conversion rate than females, which could inform more target
 Ads perform better in the latter half of the year, especially during holidays and seasonal peaks.
 
 *✅ Suggested Actions from Insights*
+
 Allocate more budget to Instagram, focusing on image-based ads.
 
 Optimize Facebook ad content, potentially by testing new formats or more targeted demographics.
@@ -86,6 +89,7 @@ Investigate ad performance among younger demographics (especially 26-35) to boos
 Run A/B tests for new content types and call-to-action strategies to enhance engagement.
 
 *🧠 What I Learned*
+
 Gained experience in creating Power BI dashboards with interactive visualizations for campaign data.
 
 Developed skills in analyzing conversion metrics and identifying trends across social media platforms.
@@ -95,6 +99,7 @@ Practiced data storytelling to drive actionable business decisions based on soci
 Improved my ability to translate raw campaign data into strategic insights for marketing teams.
 
 *📂 Files in this Repository*
+
 SOCIAL MEDIA AD CAMPAIGN DASHBOARD.pbix → Power BI Dashboard File
 
 *📸 Dashboard Preview*
